@@ -35,4 +35,5 @@ cd
 nh
 frf
 fr
+frs
 vg
