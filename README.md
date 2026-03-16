@@ -33,3 +33,4 @@ fg
 fd
 cd
 nh
+fr
